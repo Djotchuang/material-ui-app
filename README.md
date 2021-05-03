@@ -1,3 +1,7 @@
+# Material UI App for Learning Purposes
+
+I created this app while learning the basics of material ui from https://www.youtube.com/watch?v=Xoz31I1FuiY&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR&index=4 [JavaScript Mastery] on YouTube.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
